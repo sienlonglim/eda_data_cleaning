@@ -6,5 +6,7 @@
 
 4. Web scrapper for yahoo finance ticker statistics (Selenium / Beautiful Soup)
 
+5. K means clustering of S&P 500 constituents (continuation from web scrapper project)
+
 6. EDA of World Population Data (using Plotly)
    https://www.kaggle.com/code/sienlong/plotly-eda-of-world-population-w-choropleths
